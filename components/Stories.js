@@ -2,9 +2,9 @@ import StoryCard from "./StoryCard"
 
 const stories = [
     {
-        name: "Erizta Alifad",
-        src: "https://i.pinimg.com/564x/52/88/ad/5288adc1641609900081ad90ab520340.jpg",
-        profile: "https://i.pinimg.com/564x/0a/f5/11/0af511a2d18fe2a1560fac5bfd4f5cd4.jpg"
+        name: "Felix Mallard",
+        src: "https://i.pinimg.com/564x/7d/6d/8e/7d6d8e68d109c40015ede12f97299d05.jpg",
+        profile: "https://i.pinimg.com/564x/e7/79/d5/e779d56e61767a479d7d8eedc564f482.jpg"
     },
     {
         name: "Sebastian Stan",
