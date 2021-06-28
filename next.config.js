@@ -1,0 +1,9 @@
+module.exports={
+    images:{
+        domains:[
+            "links.papareact.com",
+            "platform-lookside.fbsbc.com",
+            "firebasestorage.googleapis.com"
+        ]
+    }
+}
